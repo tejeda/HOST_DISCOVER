@@ -6,7 +6,7 @@
 #include <unistd.h>
 #include <errno.h>
 
-/7 escribir en la CLI  ./listen 
+// escribir en la CLI  ./listen 
 
 
 
